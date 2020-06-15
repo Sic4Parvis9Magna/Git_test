@@ -69,3 +69,6 @@ Record-023: **#network**, **#web**
 
 Record-024: **#network**, **#web**  
 [Еще раз про IP-адреса, маски подсетей и вообще](https://m.habr.com/ru/post/129664/)
+
+Record-025: **#google**, **#test**
+[test#1](www.google.com)
