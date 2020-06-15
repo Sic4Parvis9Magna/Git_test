@@ -72,3 +72,5 @@ Record-024: **#network**, **#web**
 
 Record-025: **#google**, **#test**
 [test#1](www.google.com)
+Record-026: **#mal**, **#test**  
+[test#2](www.mal.com)
