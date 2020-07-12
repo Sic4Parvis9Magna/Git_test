@@ -77,3 +77,6 @@ Record-026: **#mal**, **#test**
 
 Record-027: **#mal**, **#test**  
 [test#3](www.mal.com)
+
+Record-028: **#math**, **#physics**  
+[Amazon Web Services - Labs](https://habr.com/ru/post/507098/)
