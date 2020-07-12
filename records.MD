@@ -80,3 +80,6 @@ Record-027: **#mal**, **#test**
 
 Record-028: **#math**, **#physics**  
 [Amazon Web Services - Labs](https://habr.com/ru/post/507098/)
+
+Record-029: **#math**  
+[Магия тензорной алгебры: Часть 1 — что такое тензор и для чего он нужен?](https://habr.com/en/post/261421/)
