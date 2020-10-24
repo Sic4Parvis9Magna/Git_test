@@ -12,3 +12,6 @@ Record-002: **#math**, **#physics**
 
 Record-003: **#sql**, **#tips_tricks**, **#pagination**  
 [Why You Shouldn’t Use OFFSET and LIMIT For Your Pagination](https://medium.com/swlh/why-you-shouldnt-use-offset-and-limit-for-your-pagination-4440e421ba87)
+
+Record-004: **#sql**, **#tips_tricks**, **#pagination**  
+[Why You Shouldn’t Use OFFSET and LIMIT For Your Pagination](https://medium.com/swlh/why-you-shouldnt-use-offset-and-limit-for-your-pagination-4440e421ba87)
